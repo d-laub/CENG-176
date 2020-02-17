@@ -1,2 +1,2 @@
 # CENG-176
-Data cleaning, analysis, and visualization for Chemical Engineering labs.
+_Just some data cleaning, analysis, and visualization for my senior design labs in Chemical Engineering._
